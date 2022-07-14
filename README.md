@@ -1,7 +1,6 @@
-# Project Title
+# Wordle
 ![Wordle](https://user-images.githubusercontent.com/15940140/179074075-45c258ea-83d9-4e10-bef0-a2555d375472.png)
 
-Wordle
 
 ## Description
 
