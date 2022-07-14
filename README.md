@@ -36,6 +36,8 @@ pip install termcolor
 
 Make sure to install termcolor; you will receive errors otherwise
 
+The python file and the .txt files need to be in the same directory
+
 ## Authors
 
 Griffin Williams
